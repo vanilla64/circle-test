@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import ColoredUserpic from "./ColoredUserpic/ColoredUserpic"
 import avatar from './avatar.jpg'

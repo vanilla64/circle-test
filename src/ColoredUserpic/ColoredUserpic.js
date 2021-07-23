@@ -1,5 +1,4 @@
 import React, {useState} from 'react'
-// import './ColoredUserpic.css'
 
 function ColoredUserpic(props) {
   const [hover, setHover] = useState(false);
@@ -16,8 +15,8 @@ function ColoredUserpic(props) {
           height: size,
           width: size,
           background: hover
-            ? `linear-gradient(to left, ${colors[0]}, ${colors[1]})`
-            : `linear-gradient(to left, ${hoverColors[0]}, ${hoverColors[1]})`,
+            ? `linear-gradient(to left, ${[...colors]})`
+            : `linear-gradient(to left, ${[...hoverColors]})`,
           borderRadius: '50%',
           display: 'flex',
           justifyContent: 'center',
