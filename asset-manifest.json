@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/vanilla64/circle-test/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/vanilla64/circle-test/static/js/main.f7a2261e.chunk.js",
-    "main.js.map": "/vanilla64/circle-test/static/js/main.f7a2261e.chunk.js.map",
-    "runtime-main.js": "/vanilla64/circle-test/static/js/runtime-main.74dd66d2.js",
-    "runtime-main.js.map": "/vanilla64/circle-test/static/js/runtime-main.74dd66d2.js.map",
-    "static/js/2.9fed71f1.chunk.js": "/vanilla64/circle-test/static/js/2.9fed71f1.chunk.js",
-    "static/js/2.9fed71f1.chunk.js.map": "/vanilla64/circle-test/static/js/2.9fed71f1.chunk.js.map",
-    "static/js/3.254a6c12.chunk.js": "/vanilla64/circle-test/static/js/3.254a6c12.chunk.js",
-    "static/js/3.254a6c12.chunk.js.map": "/vanilla64/circle-test/static/js/3.254a6c12.chunk.js.map",
-    "index.html": "/vanilla64/circle-test/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/vanilla64/circle-test/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.9fed71f1.chunk.js.LICENSE.txt": "/vanilla64/circle-test/static/js/2.9fed71f1.chunk.js.LICENSE.txt",
-    "static/media/avatar.837030a2.jpg": "/vanilla64/circle-test/static/media/avatar.837030a2.jpg",
-    "static/media/logo.6ce24c58.svg": "/vanilla64/circle-test/static/media/logo.6ce24c58.svg"
+    "main.css": "/circle-test/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/circle-test/static/js/main.f7a2261e.chunk.js",
+    "main.js.map": "/circle-test/static/js/main.f7a2261e.chunk.js.map",
+    "runtime-main.js": "/circle-test/static/js/runtime-main.a03a7328.js",
+    "runtime-main.js.map": "/circle-test/static/js/runtime-main.a03a7328.js.map",
+    "static/js/2.9fed71f1.chunk.js": "/circle-test/static/js/2.9fed71f1.chunk.js",
+    "static/js/2.9fed71f1.chunk.js.map": "/circle-test/static/js/2.9fed71f1.chunk.js.map",
+    "static/js/3.254a6c12.chunk.js": "/circle-test/static/js/3.254a6c12.chunk.js",
+    "static/js/3.254a6c12.chunk.js.map": "/circle-test/static/js/3.254a6c12.chunk.js.map",
+    "index.html": "/circle-test/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/circle-test/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.9fed71f1.chunk.js.LICENSE.txt": "/circle-test/static/js/2.9fed71f1.chunk.js.LICENSE.txt",
+    "static/media/avatar.837030a2.jpg": "/circle-test/static/media/avatar.837030a2.jpg",
+    "static/media/logo.6ce24c58.svg": "/circle-test/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.74dd66d2.js",
+    "static/js/runtime-main.a03a7328.js",
     "static/js/2.9fed71f1.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.f7a2261e.chunk.js"
